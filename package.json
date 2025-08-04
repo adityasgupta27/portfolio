@@ -1,0 +1,19 @@
+{
+  "name": "portfolio-website",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@lucide/astro": "^0.514.0",
+    "@tailwindcss/vite": "^4.1.10",
+    "astro": "^5.9.2",
+    "lucide-react": "^0.514.0",
+    "mongodb": "^6.17.0",
+    "tailwindcss": "^4.1.10"
+  }
+}
